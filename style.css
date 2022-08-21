@@ -18,7 +18,7 @@
     bottom: 0;
     width: 75px;
     height: 70px;
-    animation: pipe-animation 3s linear infinite;
+    animation: pipe-animation 2.5s linear infinite;
 }
 
 .mario{
@@ -48,7 +48,13 @@
     40%{
         bottom: 180px;
     }
+    45%{
+        bottom: 180px;
+    }
     50%{
+        bottom: 200px;
+    }
+    55%{
         bottom: 180px;
     }
     60%{

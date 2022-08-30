@@ -27,6 +27,7 @@ const loop = setInterval(() => {
         clearInterval(loop);
     }
 
+
 }, 10)
 
 window.document.addEventListener('keydown', jump);
